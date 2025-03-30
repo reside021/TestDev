@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "testdevicon.client", "testdevicon.client\testdevicon.client.esproj", "{F4AC6A1E-6C63-E0EE-3EED-34844B10424F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDevicon.Server", "TestDevicon.Server\TestDevicon.Server.csproj", "{647AC29D-5CA0-46D1-9841-D97C3F166F8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4AC6A1E-6C63-E0EE-3EED-34844B10424F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AC6A1E-6C63-E0EE-3EED-34844B10424F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AC6A1E-6C63-E0EE-3EED-34844B10424F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F4AC6A1E-6C63-E0EE-3EED-34844B10424F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AC6A1E-6C63-E0EE-3EED-34844B10424F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AC6A1E-6C63-E0EE-3EED-34844B10424F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{647AC29D-5CA0-46D1-9841-D97C3F166F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647AC29D-5CA0-46D1-9841-D97C3F166F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647AC29D-5CA0-46D1-9841-D97C3F166F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647AC29D-5CA0-46D1-9841-D97C3F166F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C01BEDF-070D-4ABD-A9EB-600504A9DB34}
+	EndGlobalSection
+EndGlobal
